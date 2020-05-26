@@ -1,1 +1,1 @@
-sim('actuator_mechanical_model')
+sim('actuator_mechanical_model_updated')

@@ -49,7 +49,7 @@ Tbk = 0.3; % Break-Away Friction Torque [Nm]
 
 %-----------------------------------
 % Efficacy Compensation
-eta_comp_scaling = 1;
+eta_comp_scaling = 0.5;
 
 %-----------------------------------
 % Sensor (model)
